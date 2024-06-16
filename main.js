@@ -1,1 +1,1 @@
-console.log("start Chrome Extension")
+console.log("start Chrome Extension --")
